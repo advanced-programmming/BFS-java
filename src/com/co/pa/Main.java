@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Queue;
 import java.util.concurrent.ThreadLocalRandom;
 
+// Busqueda por anchura -> (BFS -> breadth-first search)
 public class Main {
 
     static int MAX = 5;
